@@ -1,7 +1,9 @@
+Problem Statement  
+Understanding how pricing and discount strategies influence customer behaviour
+
 Project Overview
 This project explores an Amazon product dataset to understand pricing behaviour, discount patterns, and category performance.
 The goal is to demonstrate strong skills in data cleaning, Excel analysis, and insight communication.
-
 Retailers often run discounts, but not all discounts are equal. Some categories consistently offer deeper reductions, while others maintain higher prices
 This project aims to answer:
   - Which product categories have the highest discounts?
