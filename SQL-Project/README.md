@@ -1,8 +1,6 @@
-SQL Project: Online Banking & NHS Prescriptions Database
-A full end‑to‑end SQL project covering database design, normalisation, stored procedures, functions, views, triggers, and analytical SQL using two real‑world scenarios:
-Online Banking System
-NHS Prescriptions Database (Bolton region)
-This project demonstrates strong SQL skills across schema design, data integrity, business logic, and analytical querying.
+Problem Statemwnt
+Bannk System - Financial systems must maintain strict accuracy, prevent data corruption, and automate complex business rules. This project focuses on building a robust SQL database for an online banking environment, ensuring that balances, repayments, and overdue fees remain accurate even under concurrent updates.
+NHS System - Understanding prescribing behaviour is essential for improving patient care, managing budgets, and supporting pharmaceutical planning.
 
 Project Overview
 This project contains two major SQL builds:
