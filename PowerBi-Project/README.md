@@ -1,5 +1,5 @@
 Problem Statement
-Hospitals generate large volumes of patient, billing, and clinical data, but this information is often scattered across multiple systems, making it difficult to monitor performance and identify operational issues. This project aims to analyse patient demographics, billing patterns, diagnosis trends, wait times
+This project aims to uncover patterns that affect patient experience and service performance.
 
 Project Overview
 A full Power BI project analysing hospital performance, patient demographics, billing patterns, diagnosis trends, and operational efficiency using a structured healthcare dataset.
